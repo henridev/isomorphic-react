@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tags list Should render as expected 1`] = `
+<div>
+  <code>
+    swift
+    ?
+  </code>
+  <code>
+    css
+    ?
+  </code>
+  <code>
+    html
+    ?
+  </code>
+</div>
+`;
